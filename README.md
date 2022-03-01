@@ -5,3 +5,19 @@
 * Android Courses]https://developer.android.com/courses] -  Guided training paths that teach you how to build Android apps.
 * Udacity[https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012] - Online training: If you prefer to learn online with videos.
 * Online Courses[https://developer.android.com/guide#videos] - Essential documentation
+
+
+
+## Kotlin & Android Style Guide
+
+* Source file - All Source files must be encoded as UTF-8
+
+* File Naming - Apply PascalCase on file name then append with .kt extension
+    ```sh
+    // MyClass.kt
+    class MyClass { }
+
+    // Class.kt
+    class Class{}
+    ```
+
